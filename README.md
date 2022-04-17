@@ -1,6 +1,6 @@
 # BL_LimitPing
 
-Script simple que envia informacion del jugador mediante webhook cuando logra llegar a un determinado ping, ademas de kickear si asi lo deseas.<br><br>
+⚡ Script simple que envia informacion del jugador mediante webhook cuando logra llegar a un determinado ping, ademas de kickear si asi lo deseas.<br><br>
 **CONFIG**<br>
 ![Captura3](https://user-images.githubusercontent.com/22733633/163712487-58fe0f7d-8c8e-424b-bf75-d2d5eb4c111a.PNG)<br><br>
 **WEBHOOK**<br>
