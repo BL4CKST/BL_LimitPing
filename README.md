@@ -8,3 +8,4 @@
 **KICK MSG**<br>
 ![Captura2](https://user-images.githubusercontent.com/22733633/163712396-62faf9b4-0e94-41dc-8c30-b1294a8490bc.PNG)
 
+-- SHOP:  https://discord.gg/sZpGPQ28E5
